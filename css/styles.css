@@ -1,0 +1,103 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+
+#title{
+    background-color: #ff4c68;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 5rem;
+    font-weight: bold;
+    line-height: 0;
+}
+.nav-item{
+    font-size: 1.5rem;
+    padding: 0 18px 0 10px;
+}
+.container-fluid{
+    padding: 2% 10%;
+    
+}
+.navbar{
+    padding: 0 0 1rem;
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    padding: 0% 0% 20% 31%;
+    font-size: 2rem;
+    line-height:0 0 2 0;
+}
+h3{
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-align: center;
+}
+h2{
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.chess-image {
+    padding-left: 70px;
+}
+.features-icon{
+    text-align: center;  
+    padding: 40px 0px 0px 2px;    
+}
+.features-head{
+    padding-bottom: 0%;
+}
+#features{
+    padding: 3% 5% 5% 5%;
+}
+#testimonials{
+    padding: 2% 10%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+.testimonial-image{
+    width: 20%;
+    margin: 20px;
+    border-radius: 100%;
+}
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+   
+    margin: 20px 20px 30px;
+}
+.card-one{
+    padding: 2%  6%;
+}
+.card-two{
+    padding: 2% 6%;
+}
+.card-footer{
+    text-align: center;
+    width: auto;
+}
+#pricing{
+  
+    background-color: #f4f6ff ;
+
+}
+.pricing-head{
+    padding-top: 5%;
+}
+#footer{
+    background-color: #222831;
+    color: #fff;
+    font-size: small;
+}
